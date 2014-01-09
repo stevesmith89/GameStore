@@ -1,0 +1,31 @@
+﻿p{
+    font-size: 11px;
+}
+
+.cover {
+    width: 243px;
+    height: 323px;
+    border: 1px solid black;
+}
+
+.game {
+    background: white;
+}
+
+.publisher
+{
+    font-size:12px;
+    display:inline;
+    color:gray;
+}
+
+.title 
+{
+    font-size: 15px;
+    font-weight:bold;
+}
+
+.quantity
+{
+    display:inline;
+}
